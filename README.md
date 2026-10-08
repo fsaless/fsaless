@@ -37,7 +37,7 @@
 
 ###
 
-<p align="left">✨ Criando soluções com código desde 2023  <br>📚 Atualmente estudando **Laravel** e aprofundando meus conhecimentos em **PHP orientado a objetos**  <br>🎯 Objetivo: atuar como **Desenvolvedor Web Júnior**, contribuindo em projetos reais e evoluindo como full stack  <br>💡 Curiosidade: gosto de transformar ideias simples em sistemas úteis e bem estruturados!</p>
+<p align="left">✨ Criando soluções com código desde 2022  <br>📚 Atualmente estudando **Laravel** e aprofundando meus conhecimentos em **PHP orientado a objetos**  <br>🎯 Objetivo: atuar como **Desenvolvedor Web Júnior**, contribuindo em projetos reais e evoluindo como full stack  <br>💡 Curiosidade: gosto de transformar ideias simples em sistemas úteis e bem estruturados!</p>
 
 ###
 
